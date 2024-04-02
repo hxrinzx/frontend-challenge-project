@@ -1,0 +1,75 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+#inputArea input {
+  border: 2px solid #ffb6c1; 
+  border-radius: 10px; 
+  padding: 5px 10px; 
+  margin: 5px; 
+  width: 60px; 
+  background-color: #fff0f5; 
+  color: #333; 
+  font-family: "Comic Sans MS", "Arial", sans-serif; 
+  text-align: center; 
+}
+
+
+#inputArea input:focus {
+  outline: none;
+  border-color: #ff69b4; 
+  background-color: #ffc0cb; 
+}
+
+#text {
+  text-align: center;
+  padding-top: 20px;
+}
+#timer-content {
+  height: 180px;
+  border: 2px solid #fa899c;
+  padding: 10px 30px;
+  margin: 30px;
+  border-radius: 10px;
+}
+
+#timer-view {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: bold;
+  font-style: normal;
+  height: 50px;
+  max-height: 130px;
+  border: 2px solid #fa899c;
+  border-radius: 10px;
+  color: #fa899c;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  background-color: white; 
+  border: 2px solid #fa899c; 
+  border-radius: 10px; 
+  color: #fa899c; 
+  font-weight: bolder;
+  padding: 10px 20px;
+  font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 16px; 
+  cursor: pointer; 
+  transition: background-color 0.3s, transform 0.2s; 
+  margin: 30px 5px;
+}
+
+
+button:hover {
+  background-color: #fffbd8; 
+  transform: scale(1.05); 
+}
