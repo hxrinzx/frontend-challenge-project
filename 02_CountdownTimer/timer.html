@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="timer.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&family=Rubik+Scribble&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="inputArea">
+      시간 <input type="number" id="hours" /> 분
+      <input type="number" id="minutes" /> 초
+      <input type="number" id="seconds" />
+      <p id="text">원하는 시간을 입력한 후에 START 버튼을 눌러주세요!</p>
+    </div>
+    <div id="timer-content">
+      <div id="timer-view">00 : 00 : 00</div>
+      <div id="buttons">
+        <button>START</button>
+        <button>STOP</button>
+        <button>RESET</button>
+      </div>
+    </div>
+    <script src="timer.js"></script>
+  </body>
+</html>
