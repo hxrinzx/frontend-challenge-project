@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="Todolist.css" />
+    <script src="Todolist.js"></script>
+  </head>
+  <body>
+    <div id="wrap-content">
+      <div id="todolist-content">
+        <p>TO-DO LIST</p>
+        <button id="filterAll">전체</button>
+        <button id="filterCompleted">완료</button>
+        <button id="filterUncompleted">미완료</button>
+        <div id="inputArea">
+          <input type="text" id="todo" placeholder="할 일을 작성해주세요" />
+          <select id="priority">
+            <option value="낮음">낮음</option>
+            <option value="보통" selected>보통</option>
+            <option value="높음">높음</option>
+            <option value="아주 높음">아주 높음</option>
+          </select>
+          <button id="addButton">추가</button>
+        </div>
+        <div id="list-content">
+          <ul id="todolist"></ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
