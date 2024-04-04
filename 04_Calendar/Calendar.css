@@ -4,6 +4,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 90vh;
+  color: #80757a;
 }
 
 #calendar-content {
@@ -13,7 +14,10 @@ body {
   border: 2px solid #e895c0;
   background-color: white;
   border-radius: 20px;
-  padding: 0 30px 40px 30px;
+  padding: 0 30px 80px 30px;
+  background-image: url(./img2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #calendar-header {
@@ -23,19 +27,27 @@ body {
   margin-bottom: 10px;
 }
 #calendar-header button {
-    background-color: white;
-    border: 2px solid #e895c0;
-    border-radius: 10px;
-    width: 50px;
-    color: #e895c0;
-    font-weight: bolder;
-    font-size: 18px;
-    cursor: pointer;
-    transition: background-color 0.3s, transform 0.2s;
-    margin: 20px 0;
-    padding: 5px;
-  }
-  
+  background-color: white;
+  border: 2px solid #e895c0;
+  border-radius: 10px;
+  width: 50px;
+  color: #e895c0;
+  font-weight: bolder;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+  margin: 20px 0;
+  padding: 5px;
+}
+
+#calendar-body {
+  background-color: white;
+  border: 1px solid #80757a;
+  border-radius: 12px;
+  padding: 20px;
+  height: 260px;
+}
+
 .days {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
@@ -43,10 +55,10 @@ body {
   border-bottom: 1px solid #ccc;
   padding-bottom: 5px;
   font-size: 15px;
-}   
+}
 
-#dates-content{
-    padding: 30px 0;
+#dates-content {
+  padding: 30px 0;
 }
 #dates {
   display: grid;
@@ -54,7 +66,79 @@ body {
   grid-gap: 20px;
 }
 .today {
-    background-color: #e895c0; /* 오늘 날짜의 배경 색상 */
-    height: 23px;
-    border-radius: 10px;
+  background-color: #e9b8d1; /* 오늘 날짜의 배경 색상 */
+  height: 22px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.day {
+  position: relative; /* 상대 위치 지정 */
+  display: inline-block; /* 인라인 블록 요소로 표시 */
+}
+
+.day span {
+  position: absolute; /* 절대 위치 지정 */
+  top: 0; /* 위쪽으로 정렬 */
+  right: 0; /* 오른쪽으로 정렬 */
+  transform: translate(-230%, -100%); /* 중앙 정렬 */
+  color: rgb(106, 102, 82); /* 점의 색상 변경 */
+  font-size: 6px;
+}
+
+#memo-content {
+  width: 50%;
+  min-height: 80px;
+  background-color: white;
+  border: 2px solid #e895c0;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+input[type="text"] {
+  margin-right: 10px;
+}
+
+.add-button {
+  background-color: white;
+  border: 1px solid #e895c0;
+  border-radius: 6px;
+  width: 40px;
+  color: #e895c0;
+  font-weight: bolder;
+  font-size: 11px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+  margin: 20px 0;
+  padding: 5px;
+}
+
+.edit-button {
+  background-color: white;
+  border: 1px solid #e895c0;
+  border-radius: 6px;
+  width: 40px;
+  height: 25px;
+  color: #e895c0;
+  font-weight: bolder;
+  font-size: 11px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+  padding: 3px;
+  margin-left: 20px;
+}
+
+.save-button {
+  background-color: white;
+  border: 1px solid #e895c0;
+  border-radius: 6px;
+  width: 40px;
+  height: 25px;
+  color: #e895c0;
+  font-weight: bolder;
+  font-size: 11px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+  padding: 3px;
+  margin-left: 20px;
 }
