@@ -13,3 +13,6 @@
 ### 👉🏻[DAY4 CALENDAR! 📅](https://jxharin.github.io/frontend-challenge-project/04_Calendar/Calendar.html)  
 <img width="400" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/2720fb5a-4c88-4559-8f38-421d1283a22a">
 
+### 👉🏻[DAY5 MAINPAGE CLONE CODING! 💻](https://jxharin.github.io/frontend-challenge-project/05_MainClone/Main.html)  
+
+<img width="600" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/312975bc-665b-4c87-9d41-f2cff3d14edb">
