@@ -15,4 +15,8 @@
 
 ### 👉🏻[DAY5 MAINPAGE CLONE CODING! 💻](https://jxharin.github.io/frontend-challenge-project/05_MainClone/Main.html)  
 
-<img width="600" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/312975bc-665b-4c87-9d41-f2cff3d14edb">
+<img width="600" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/312975bc-665b-4c87-9d41-f2cff3d14edb">  
+==================================================  
+
+<img width="550" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/9fae5648-7ceb-4282-8358-718835df1097">
+
