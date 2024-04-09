@@ -22,3 +22,6 @@
 
 ### 👉🏻[DAY6 IMAGE CAROUSEL! 🖼](https://jxharin.github.io/frontend-challenge-project/06_Carousel/Carousel.html)  
 <img width="641" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/64c6b2e8-f68e-4134-947a-f79b1c6781ec">
+
+### 👉🏻[DAY7 IMAGE AUTO SLIDE CAROUSEL! 🖼](https://jxharin.github.io/frontend-challenge-project/07_CarouselAutoCarousel/Carousel.html)  
+<img width="520" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/048771ab-2e7a-4ff7-a137-d6dbae29a1f0">
