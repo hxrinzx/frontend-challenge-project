@@ -18,5 +18,7 @@
 <img width="600" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/312975bc-665b-4c87-9d41-f2cff3d14edb">  
 ==================================================  
 
-<img width="550" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/9fae5648-7ceb-4282-8358-718835df1097">
+<img width="550" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/9fae5648-7ceb-4282-8358-718835df1097">  
 
+### 👉🏻[DAY6 IMAGE CAROUSEL! 🖼](https://jxharin.github.io/frontend-challenge-project/06_Carousel/Carousel.html)  
+<img width="641" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/64c6b2e8-f68e-4134-947a-f79b1c6781ec">
