@@ -52,3 +52,12 @@
   padding: 3px;
   margin-left: 20px;
 }
+
+/* 모바일 및 태블릿 화면을 위한 스타일 */
+@media (max-width: 768px) {
+  .slide-arrow {
+    padding: 5px; /* 패딩 줄임 */
+    font-size: 5px; /* 화살표 아이콘 크기 줄임 */
+    width: 20px;
+  }
+}
