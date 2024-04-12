@@ -24,4 +24,17 @@
 <img width="641" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/64c6b2e8-f68e-4134-947a-f79b1c6781ec">
 
 ### 👉🏻[DAY7 IMAGE AUTO SLIDE CAROUSEL! 🖼](https://jxharin.github.io/frontend-challenge-project/07_CarouselAutoSlide/Carousel.html)  
-<img width="520" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/048771ab-2e7a-4ff7-a137-d6dbae29a1f0">
+<img width="520" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/048771ab-2e7a-4ff7-a137-d6dbae29a1f0">  
+
+### 👉🏻[DAY8 MAIN CLONE ADD CAROUSEL! 💻](https://jxharin.github.io/frontend-challenge-project/08_MainCloneCarousel/Main.html)  
+<img width="400" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/135af03f-8a4c-459d-9243-c5a94f048839">  
+
+### 👉🏻[DAY9 NAVBAR RESPONSIVE! 🪄](https://jxharin.github.io/frontend-challenge-project/09_NavBarResponsivee/Main.html)  
+<img width="385" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/83852993-20ba-4207-9f26-ae033b783b2d">  
+
+### 👉🏻[DAY10 LOGIN PAGE! 🌟](https://jxharin.github.io/frontend-challenge-project/10_LogIn/Login.html)  
+<img width="691" alt="image" src="https://github.com/jxharin/frontend-challenge-project/assets/126852968/224939aa-fb03-40f8-8b2c-726492c79997">
+
+
+
+
